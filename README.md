@@ -9,7 +9,7 @@ Requirements and Installation
 
 - CPU or NVIDIA GPU, Linux, Python3
 
-If you find code useful, pls consider cite our paper.
+If you find code useful, pllease consider cite our paper.
 
 @article{zhu2021mhnf,
   title={MHNF: Multi-hop Heterogeneous Neighborhood information Fusion graph representation learning},
