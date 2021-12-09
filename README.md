@@ -1,6 +1,6 @@
 # MHNF
 The code impliments for paper "MHNF: Multi-hop Heterogeneous Neighborhood information Fusion graph representation learning.”
-Requirements and Installation
+
 #### Requirements and Installation
 
 - Python  >= 3.6
