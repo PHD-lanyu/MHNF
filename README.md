@@ -13,7 +13,7 @@ If you find code useful, pllease consider cite our paper.
 
 @article{zhu2021mhnf,
   title={MHNF: Multi-hop Heterogeneous Neighborhood information Fusion graph representation learning},
-  author={Zhu, Dongjie and Sun, Yundong and Du, Haiwen and Tian, Zhaoshuo},
+  author={Sun, Yundong and Zhu, Dongjie and Du, Haiwen and Tian, Zhaoshuo},
   journal={arXiv preprint arXiv:2106.09289},
   year={2021}
 }
