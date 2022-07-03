@@ -1,6 +1,6 @@
 # MHNF
 The code impliments for paper "MHNF: Multi-hop Heterogeneous Neighborhood information Fusion graph representation learning” published in IEEE Transactions on Knowledge and Data Engineering(TKDE).
-##Note: Thanks to BUPT GAMMA Lab at Beijing University of Posts and Telecommunications. This work has been integrated into the OpenHGNN library, please click OpenHGNN(https://github.com/BUPT-GAMMA/OpenHGNN) to see the complete project.
+#### Note: Thanks to BUPT GAMMA Lab at Beijing University of Posts and Telecommunications. This work has been integrated into the OpenHGNN library, please click OpenHGNN(https://github.com/BUPT-GAMMA/OpenHGNN) to see the complete project.
 
 #### Requirements and Installation
 
