@@ -14,7 +14,7 @@ If you find code useful, pllease consider cite our paper.
 
 @article{sun2022mhnf,
   title={MHNF: Multi-hop Heterogeneous Neighborhood information Fusion graph representation learning},
-  author={Sun, Yundong Sun and Zhu, Dongjie and Du, Haiwen and Tian, Zhaoshuo},
+  author={Sun, Yundong and Zhu, Dongjie and Du, Haiwen and Tian, Zhaoshuo},
   journal={IEEE Transactions on Knowledge and Data Engineering},
   year={2022},
   publisher={IEEE}
