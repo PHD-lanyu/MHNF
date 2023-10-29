@@ -12,10 +12,14 @@ The code impliments for paper "MHNF: Multi-hop Heterogeneous Neighborhood inform
 
 If you find code useful, pllease consider cite our paper.
 
-@article{sun2022mhnf,
-  title={MHNF: Multi-hop Heterogeneous Neighborhood information Fusion graph representation learning},
+@article{sun2023mhnf,
+  title={MHNF: Multi-Hop Heterogeneous Neighborhood Information Fusion Graph Representation Learning},
   author={Sun, Yundong and Zhu, Dongjie and Du, Haiwen and Tian, Zhaoshuo},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  year={2022},
-  publisher={IEEE}
+  journal={IEEE Transactions on Knowledge \& Data Engineering},
+  volume={35},
+  number={07},
+  pages={7192--7205},
+  year={2023},
+  publisher={IEEE Computer Society}
 }
+
